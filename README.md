@@ -1,4 +1,4 @@
 # MKAuth
-This is auth For MK project
+This is the auth service For MK project
 
-MKProject的授权服务
+MKProject 的授权服务
